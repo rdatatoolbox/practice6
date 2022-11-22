@@ -1,6 +1,7 @@
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# practice6 <img src="man/figures/package-sticker.png" align="right" style="float:right; height:120px;"/>
+# Practice 6 - Package R <img src="man/figures/package-sticker.png" align="right" style="float:right; height:120px;"/>
 
 <!-- badges: start -->
 
@@ -12,37 +13,41 @@ coverage](https://github.com/rdatatoolbox/practice6/actions/workflows/test-cover
 [![codecov](https://codecov.io/gh/rdatatoolbox/practice6/branch/main/graph/badge.svg)](https://codecov.io/gh/rdatatoolbox/practice6)
 [![CRAN
 status](https://www.r-pkg.org/badges/version/practice6)](https://CRAN.R-project.org/package=practice6)
-[![License: GPL (&gt;=
+[![License: GPL (\>=
 2)](https://img.shields.io/badge/License-GPL%20%28%3E%3D%202%29-blue.svg)](https://choosealicense.com/licenses/gpl-2.0/)
-[![Dependencies](https://img.shields.io/badge/dependencies-0/0-brightgreen?style=flat)](#)
 <!-- badges: end -->
 
-The goal of the R package `practice6` is to **{{ PLEASE ADD A FEW LINES
-}}**
+The goal of the R package `practice6` is to show the structure of an R
+package. This repository is linked to the practice 6 of the workshop
+**Data Toolbox for Reproducible Research in Ecology**
+<https://rdatatoolbox.github.io/ex-package.html>.
 
 ## Installation
 
 You can install the development version from
 [GitHub](https://github.com/) with:
 
-    # install.packages("remotes")
-    remotes::install_github("rdatatoolbox/practice6")
+``` r
+# install.packages("remotes")
+remotes::install_github("rdatatoolbox/practice6")
+```
 
 Then you can attach the package `practice6`:
 
-    library("practice6")
+``` r
+library("practice6")
+```
 
 ## Overview
 
-Here is an overview of `practice6` content: **{{ PLEASE ADD A FEW LINES
-}}**
+The only function (dummy function) of `practice6` is `print_msg()`.
 
 ## Citation
 
 Please cite this package as:
 
-> Casajus Nicolas (2022) practice6: An R package to **{{ TITLE }}**. R
-> package version 0.0.0.9000.
+> Casajus N (2022) practice6: An R package to show a good structure of
+> an R package. R package version 0.0.1.
 
 ## Code of Conduct
 

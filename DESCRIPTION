@@ -1,15 +1,16 @@
 Package: practice6
 Type: Package
-Title: The Title of the Project
-Version: 0.0.0.9000
+Title: Practice 6 - R Package
+Version: 0.0.1
 Authors@R: c(
     person(given   = "Nicolas",
            family  = "Casajus",
            role    = c("aut", "cre", "cph"),
            email   = "nicolas.casajus@fondationbiodiversite.fr",
            comment = c(ORCID = "0000-0002-5537-5294")))
-Description: A paragraph providing a full description of the project (on 
-    several lines...)
+Description: Contains the structure of an R package, result of the practice 6
+    of the workshop 'Data Toolbox for Reproducible Research in Ecology'
+    <https://rdatatoolbox.github.io/>.
 URL: https://github.com/rdatatoolbox/practice6
 BugReports: https://github.com/rdatatoolbox/practice6/issues
 License: GPL (>= 2)

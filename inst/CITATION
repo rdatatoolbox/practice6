@@ -2,9 +2,9 @@ citHeader("To cite practice6 in publications use:")
 
 bibentry(
   bibtype = "Manual",
-  title   = "practice6: {An} {R} package to ...",
-  author  = c(person("Casajus Nicolas")),
+  title   = "practice6: {An} {R} package to show a good structure of an {R} package",
+  author  = c(person("Casajus N")),
   year    = "2022",
-  note    = "R package version 0.0.0.9000",
+  note    = "R package version 0.0.1",
   url     = "https://github.com/rdatatoolbox/practice6"
 )

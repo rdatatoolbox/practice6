@@ -4,9 +4,9 @@
 \name{practice6-package}
 \alias{practice6}
 \alias{practice6-package}
-\title{practice6: The Title of the Project}
+\title{practice6: Practice 6 - R Package}
 \description{
-A paragraph providing a full description of the project (on several lines...)
+Contains the structure of an R package, result of the practice 6 of the workshop 'Data Toolbox for Reproducible Research in Ecology' \url{https://rdatatoolbox.github.io/}.
 }
 \seealso{
 Useful links:
